@@ -49,19 +49,19 @@ textarea {
    VARIABLES
 ================================ */
 :root {
-  --bg-primary: #f7f0e6;
-  --bg-secondary: #efe5d8;
-  --bg-card: #fffaf2;
+  --bg-primary: #191316;
+  --bg-secondary: #241b1f;
+  --bg-card: #2d2227;
 
-  --text-primary: #35232d;
-  --text-secondary: #806d75;
+  --text-primary: #fff8f0;
+  --text-secondary: #cdbdc1;
 
-  --accent: #b76585;
-  --accent-light: #d998ad;
+  --accent: #c47794;
+  --accent-light: #e0a3b7;
 
-  --border: rgba(91, 60, 72, 0.12);
+  --border: rgba(255, 240, 230, 0.10);
 
-  --shadow: 0 20px 50px rgba(75, 48, 58, 0.12);
+  --shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
 
   --max-width: 1200px;
 }
